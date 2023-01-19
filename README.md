@@ -4,7 +4,7 @@
 <h1 align="center">
   <b>𝑹𝑶𝑪𝑲𝒀 𝑩𝑯𝑨𝑰</b>
 </h1>
-<a href="https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ">
+<a href="https://youtube.com/@violencegaming7662">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
 [![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
