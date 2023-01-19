@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Zsearcher.png" alt="Technical Cynite">
+  <img src="https://telegra.ph/file/fcc8140a93490d4160fcb.jpg" alt="𝑹𝑶𝑪𝑲𝒀 𝑩𝑯𝑨𝑰">
 </p>
 <h1 align="center">
   <b>ᎪႮͲϴ-ҒᏆᏞͲᎬᎡ</b>
