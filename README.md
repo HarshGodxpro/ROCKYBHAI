@@ -10,8 +10,8 @@
 [![Stars](https://img.shields.io/github/stars/HarshgodxPro/ROCKYBHAI?style=flat-square&color=orange)](https://github.com/HarshGodxpro/ROCKYBHAI/stargazers)
 [![Forks](https://img.shields.io/github/forks/HarshgodxPro/ROCKYBHAI?style=flat-square&color=blue)](https://github.com/HarshgodxPro/ROCKYBHAI/fork)
 [![Size](https://img.shields.io/github/repo-size/HarshgodxPro/ROCKYBHAI?style=flat-square&color=black)](https://github.com/HarshgodxPro/ROCKYBHAI)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/Aadhi000/Ajax)   
-[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/CyniteOfficial/Auto-Filter-Bot/graphs/contributors)
+[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/Harshgodxpro/ROCKYBHAI)   
+[![Contributors](https://img.shields.io/github/contributors/Harshgodxpro/ROCKYBHAI?style=flat-square&color=green)](https://github.com/HarshgodxPro/ROCKYBHAI/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
